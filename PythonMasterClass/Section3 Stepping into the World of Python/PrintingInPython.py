@@ -8,3 +8,5 @@ print()
 
 #can pass multiple arguements with the print function
 print("The end", "or is it?", "keep watching")
+
+print("Learning Python")
